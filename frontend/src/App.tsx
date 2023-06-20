@@ -1,23 +1,34 @@
 import React from "react";
-import "./App.css";
-import { sampleProducts } from "./data";
-
+import { Container, Nav, Navbar } from "react-bootstrap";
+import AllRoutes from "./Routes/AllRoutes";
 function App() {
   // const [count, setCount] = useState<number>(0);
   return (
-    <div className="App">
-      <header>TS Amazon</header>
+    <div className="d-flex flex-column vh-100">
+      <header>
+        <Navbar bg="dark" variant="dark" expand="lg">
+          <Container>
+            <Navbar.Brand>Apni Dukan</Navbar.Brand>
+          </Container>
+          <Nav>
+            <a href="/cart" className="nav-link">
+              Cart
+            </a>
+            <a href="/signin" className="nav-link">
+              Sign In
+            </a>
+          </Nav>
+        </Navbar>
+      </header>
       <main>
-        {sampleProducts.map((product) => (
-          <li key={product.slug}>
-            <img src={product.image} alt="" className="product-image" />
-            <h2>{product.name}</h2>
-            <p>{product.price}</p>
-            <p>{product.brand}</p>
-          </li>
-        ))}
+        <Container className="mt-3">
+          <AllRoutes />
+        </Container>
       </main>
-      <footer>All Rights Reserved</footer>
+
+      <footer>
+        <div className="text-center">All Rights Reserved</div>
+      </footer>
     </div>
   );
 }
