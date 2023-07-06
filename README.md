@@ -53,7 +53,7 @@
 ![SingleProductsPage](./frontend/public/readme_Images/dark_theme_SingleProductPage.png)
 
 ## Done & Dusted
-- Creating react application in TypeScript
+- Created react application in TypeScript
 - Created e-commerce pages like Products, singleProduct, cart using React Router Dom
 - React hooks to handle form inputs and fetch backend api
 - Managed and monitor application state by React's "useContext"
