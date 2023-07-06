@@ -15,6 +15,43 @@
   
 - Source Code(GitHub link):- https://github.com/Rushijoshi3798/Amazon_Clone-TS-ReactJS-
 
+<br/>
+<h4 align="center">💻 Tech Stack</h4>
+ <div align="center">
+ <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+ <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  align="center" alt="javascript" />
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+   <img src = "https://img.shields.io/badge/bootstrap%20-%234ED1C5.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="center" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
+ <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"  align="center" alt="MongoDB" />
+ <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"  align="center" alt="ExpressJS" />
+ <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"  align="center" alt="NodeJS" />
+</div>
+<br/>
+
+<div align="center"><h3 align="center">Tools</h3> 
+  <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"  align="center" alt="vercel"/>
+</div>
+<br/>
+
+## Let's Dive into What we have made
+
+## Pages :
+
+![ProductsPage](./frontend/public/readme_Images/productPage.png)
+
+![SingleProductsPage](./frontend/public/readme_Images/singleProductPage.png)
+
+## Pages - Dark Mode :
+
+![ProductsPage](./frontend/public/readme_Images/dark_theme_ProductPage.png)
+
+![SingleProductsPage](./frontend/public/readme_Images/dark_theme_SingleProductPage.png)
+
 ## Done & Dusted
 - Creating react application in TypeScript
 - Created e-commerce pages like Products, singleProduct, cart using React Router Dom
