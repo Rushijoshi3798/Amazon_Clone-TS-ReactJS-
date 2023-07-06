@@ -1,46 +1,37 @@
-# Getting Started with Create React App
+# Welcome to Apni Dukan (Amazon Clone)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## >>> "Work In Progress" <<<
 
-## Available Scripts
+<h3>React + TypeScript to build a fully-functional e-commerce website similarly like Amazon. An e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
+</h3>
 
-In the project directory, you can run:
+# Deployed URL 👉 [Click here](https://frontend-jade-nine.vercel.app/)
 
-### `npm start`
+- Rushi Joshi </br> (My Linkedin profile :- https://www.linkedin.com/in/rushijoshi3798/) <br/>
+              (My Portfolio :- https://rushijoshi3798.github.io/)
+  <br/>
+  
+- Source Code(GitHub link):- https://github.com/Rushijoshi3798/Amazon_Clone-TS-ReactJS-
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Done & Dusted
+- Creating react application in TypeScript
+- Created e-commerce pages like Products, singleProduct, cart using React Router Dom
+- React hooks to handle form inputs and fetch backend api
+- Managed and monitor application state by React's "useContext"
+- Handling shopping cart using reducers and local storage
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Upcoming Plan
+- Building backend web api by node.js, express.js and MongoDB
+- Will Create remaining e-commerce pages like checkout and place order using React Router Dom
+- Defining and exporting Types like product, orders and user in frontend
+- Will Handle authentication and authorization using JsonWebToken and express middleware.
+- Will Deploy application on cloud servers like Render
+- Will try to learn & add Mailgun to email order receipt to user
 
-### `npm test`
+## >>> "Work In Progress" <<<
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Show your support
 
-### `npm run build`
+Give a ⭐️ if you like this project!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Thank you
